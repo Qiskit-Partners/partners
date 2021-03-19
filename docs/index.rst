@@ -2,6 +2,13 @@
 Qiskit Partners Program
 #######################
 
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+  
+  self
+  Partner requirements <requirements>
+
 Summary
 #######
 
