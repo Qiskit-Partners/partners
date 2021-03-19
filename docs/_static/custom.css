@@ -1,0 +1,9 @@
+.badge-primary {
+    background-color: #8A3FFC !important;
+    color: #fff;
+}
+
+.badge-dark {
+    background-color: #464646 !important;
+    color: #fff;
+}
