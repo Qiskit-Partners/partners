@@ -1,0 +1,7 @@
+Sphinx>=3.0.0
+jupyter
+jupyter-sphinx
+sphinx-panels
+sphinx-automodapi
+qiskit-sphinx-theme>=1.7.0
+nbsphinx
