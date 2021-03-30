@@ -53,17 +53,17 @@ Code standards
 
 - Continuous Integration testing:
   - Code must be under agreed upon continuous integration testing.
-  - Unit testing should include testing against a mock device API.
-  - Tests should ensure that API handles responses correctly, e.g. testing using a API-based simulator.
+  - Unit testing should include testing against a mock device API if needed.
+  - If necessary, tests should ensure that API handles responses correctly, e.g. testing using a API-based simulator.
 
   - Code documentation and styling:
-  - Code must be documented using Google-style doc-strings.
-  - Code must follow PEP8 style guidelines, e.g. there must be tests that check for lint and style errors.
-  - There must be a set of release notes corresponding to each release of the package once it becomes a Partner.
+    - Code must be documented using Google-style doc-strings.
+    - Code must follow PEP8 style guidelines, e.g. there must be tests that check for lint and style errors.
+    - There must be a set of release notes corresponding to each release of the package once it becomes a Partner.
 
   - Compatibility:
-  - The Partner code should be kept up to date with Qiskit.
-  - Code must follow standard Qiskit deprecation guidelines: https://qiskit.org/documentation/contributing_to_qiskit.html#deprecation-policy
+    - The Partner code should be kept up to date with Qiskit.
+    - Code must follow standard Qiskit deprecation guidelines: https://qiskit.org/documentation/contributing_to_qiskit.html#deprecation-policy
 
 Expanding the Qiskit ecosystem
 ##############################
