@@ -1,6 +1,6 @@
-#######################
-Qiskit Partners Program
-#######################
+###############
+Qiskit Partners
+###############
 
 A collection of quantum hardware and software partners that extend and compliment the Qiskit ecosystem.
 
