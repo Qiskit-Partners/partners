@@ -12,7 +12,7 @@ Qiskit Partners Program
 Summary
 #######
 
-Qiskit Partners are a select group of quantum hardware and software vendors that are
+Qiskit Partners are a select group of quantum service providers and software vendors that are
 verified for Qiskit compatibility and validity, expand the reach of Qiskit and usage
 by the Qiskit community, and follow software best practices. Qiskit Partners are
 expected to maintain the same high standards that all Qiskit contributions set.
@@ -38,8 +38,8 @@ The benefits of becoming a Qiskit Partner include:
 - Collaboration and engagement in the open development of Qiskit.
 
 
-Quantum Hardware Partners
-#########################
+Quantum (Hardware) Service Providers
+####################################
 
 .. panels::
   :column: col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 p-2
