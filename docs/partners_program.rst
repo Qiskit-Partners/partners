@@ -5,7 +5,7 @@ Qiskit Partners Program
 Summary
 #######
 
-Qiskit Partners are a select group of quantum hardware and software vendors that are
+Qiskit Partners are a select group of quantum service providers and software vendors that are
 verified for Qiskit compatibility and validity, expand the reach of Qiskit and usage
 by the Qiskit community, and follow software best practices. Qiskit Partners are
 expected to maintain the same high standards that all Qiskit contributions set.

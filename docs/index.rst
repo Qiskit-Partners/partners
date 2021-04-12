@@ -13,8 +13,8 @@ A collection of quantum hardware and software partners that extend and complimen
   Program requirements <requirements>
 
 
-Quantum Hardware Providers
-##########################
+Quantum (Hardware) Service Providers
+####################################
 
 .. panels::
   :column: col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 p-2
