@@ -32,6 +32,20 @@ Quantum Hardware Providers
   :link-badge:`https://qiskit.org/documentation/,"Docs",cls=badge-primary text-white`
   :link-badge:`https://github.com/Qiskit-Partners/qiskit-ibm,"Github",cls=badge-success text-white`
 
+  ---
+  IonQ
+  ^^^^
+  .. image:: images/ionq.jpg
+      :scale: 28 %
+      :align: center
+      :target: https://qiskit.org/documentation/partners/ionq/
+
+
+  ++++++
+  :link-badge:`https://ionq.com/,"Website",cls=badge-dark text-white`
+  :link-badge:`https://qiskit.org/documentation/partners/ionq/,"Docs",cls=badge-primary text-white`
+  :link-badge:`https://github.com/Qiskit-Partners/qiskit-ionq,"Github",cls=badge-success text-white`
+
 
 
 .. Hiding - Indices and tables
