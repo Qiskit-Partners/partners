@@ -5,10 +5,15 @@ Qiskit Partners
 A collection of quantum hardware and software partners that extend and compliment the Qiskit ecosystem.
 
 .. toctree::
+  :maxdepth: 1
+  :hidden:
+
+  Qiskit Partners homepage <self>
+
+.. toctree::
   :maxdepth: 2
   :hidden:
   
-  self
   Partner program <partners_program>
   Program requirements <requirements>
 
