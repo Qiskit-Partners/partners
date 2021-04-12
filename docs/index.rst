@@ -2,44 +2,19 @@
 Qiskit Partners Program
 #######################
 
+A collection of quantum hardware and software partners that extend and compliment the Qiskit ecosystem.
+
 .. toctree::
   :maxdepth: 2
   :hidden:
   
   self
-  Partner requirements <requirements>
-
-Summary
-#######
-
-Qiskit Partners are a select group of quantum hardware and software vendors that are
-verified for Qiskit compatibility and validity, expand the reach of Qiskit and usage
-by the Qiskit community, and follow software best practices. Qiskit Partners are
-expected to maintain the same high standards that all Qiskit contributions set.
-
-Benefits
-########
-
-For Users
-^^^^^^^^^
-
-- A singular location for trusted packages that enhance the functionality of Qiskit.
-- Documentation for all packages easily accessible via `qiskit.org <https://qiskit.org>`_.
-- Enhanced user support from Partners via Qiskit Slack and other sources.
+  Partner program <partners_program>
+  Program requirements <requirements>
 
 
-For Partners
-^^^^^^^^^^^^
-
-The benefits of becoming a Qiskit Partner include:
-
-- Inclusion of Partner documentation with Qiskit documentation and visibility on the `Qiskit website <https://qiskit.org>`_.
-- Joint announcements such as blog posts, tutorials, and community events.
-- Collaboration and engagement in the open development of Qiskit.
-
-
-Quantum Hardware Partners
-#########################
+Quantum Hardware Providers
+##########################
 
 .. panels::
   :column: col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 p-2
