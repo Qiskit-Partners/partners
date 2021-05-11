@@ -63,12 +63,12 @@ Runtime systems
   .. image:: images/qiskit_runtime.png
       :scale: 50 %
       :align: center
-      :target: https://qiskit.org/documentation/partners/qiskit-runtime
+      :target: https://qiskit.org/documentation/partners/qiskit_runtime
 
 
   ++++++
   :link-badge:`https://quantum-computing.ibm.com/lab/docs/iql/runtime/,"Website",cls=badge-dark text-white`
-  :link-badge:`https://qiskit.org/documentation/partners/qiskit-runtime,"Docs",cls=badge-primary text-white`
+  :link-badge:`https://qiskit.org/documentation/partners/qiskit_runtime,"Docs",cls=badge-primary text-white`
   :link-badge:`https://github.com/Qiskit-Partners/qiskit-runtime,"Github",cls=badge-success text-white`
 
 
