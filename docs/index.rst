@@ -72,6 +72,23 @@ Runtime systems
   :link-badge:`https://github.com/Qiskit-Partners/qiskit-runtime,"Github",cls=badge-success text-white`
 
 
+Software
+########
+
+.. panels::
+  :column: col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 p-2
+
+  Matrix-free measurement mitigation (M3)
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  .. image:: images/m3_visual.png
+      :scale: 30 %
+      :align: center
+      :target: https://qiskit.org/documentation/partners/mthree
+
+
+  ++++++
+  :link-badge:`https://qiskit.org/documentation/partners/mthree,"Docs",cls=badge-primary text-white`
+  :link-badge:`https://github.com/Qiskit-Partners/mthree,"Github",cls=badge-success text-white`
 
 
 .. Hiding - Indices and tables
