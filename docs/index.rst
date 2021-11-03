@@ -22,7 +22,7 @@ Quantum (Hardware) Service Providers
 ####################################
 
 .. panels::
-  :column: col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4 p-2
+  :column: col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-2 p-2
 
   IBM Quantum
   ^^^^^^^^^^^
@@ -51,6 +51,19 @@ Quantum (Hardware) Service Providers
   :link-badge:`https://qiskit.org/documentation/partners/ionq/,"Docs",cls=badge-primary text-white`
   :link-badge:`https://github.com/Qiskit-Partners/qiskit-ionq,"Github",cls=badge-success text-white`
 
+
+  -------------
+  Azure Quantum
+  ^^^^^^^^^^^^^
+  .. image:: images/azure.png
+      :scale: 28 %
+      :align: center
+      :target: https://aka.ms/aq
+
+
+  ++++++
+  :link-badge:`https://aka.ms/aq,"Website",cls=badge-dark text-white`
+  :link-badge:`https://aka.ms/AQ/Qiskit/QuickStart,"Docs",cls=badge-primary text-white`
 
 Runtime systems
 ###############
