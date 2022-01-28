@@ -4,3 +4,4 @@ aqt/**
 honeywell/**
 qiskit_runtime/**
 mthree/**
+qiskit_ibm_runtime/**
