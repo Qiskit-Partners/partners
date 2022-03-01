@@ -76,13 +76,13 @@ Runtime systems
   .. image:: images/qiskit_runtime.png
       :scale: 50 %
       :align: center
-      :target: https://qiskit.org/documentation/partners/qiskit_runtime
+      :target: https://qiskit.org/documentation/partners/qiskit_ibm_runtime
 
 
   ++++++
   :link-badge:`https://quantum-computing.ibm.com/lab/docs/iql/runtime/,"Website",cls=badge-dark text-white`
-  :link-badge:`https://qiskit.org/documentation/partners/qiskit_runtime,"Docs",cls=badge-primary text-white`
-  :link-badge:`https://github.com/Qiskit-Partners/qiskit-runtime,"Github",cls=badge-success text-white`
+  :link-badge:`https://qiskit.org/documentation/partners/qiskit_ibm_runtime,"Docs",cls=badge-primary text-white`
+  :link-badge:`https://github.com/qiskit/qiskit-ibm-runtime,"Github",cls=badge-success text-white`
 
 
 Software
