@@ -2,7 +2,7 @@
 Qiskit Partners
 ###############
 
-A collection of quantum hardware and software partners that extend and compliment the Qiskit ecosystem.
+A collection of quantum hardware partners that connect to Qiskit.
 
 .. toctree::
   :maxdepth: 1
