@@ -29,13 +29,14 @@ Quantum (Hardware) Service Providers
   .. image:: images/ibmq.jpg
       :scale: 40 %
       :align: center
-      :target: https://qiskit.org/documentation/
+      :target: https://quantum-computing.ibm.com/services/resources/docs/runtime/manage/systems/
 
 
   ++++++
-  :link-badge:`https://quantum-computing.ibm.com/,"Website",cls=badge-dark text-white`
-  :link-badge:`https://qiskit.org/documentation/,"Docs",cls=badge-primary text-white`
-  :link-badge:`https://github.com/Qiskit-Partners/qiskit-ibm,"Github",cls=badge-success text-white`
+  :link-badge:`https://www.ibm.com/quantum/systems,"Website",cls=badge-dark text-white`
+  :link-badge: `https://quantum-computing.ibm.com/services/resources, "Compute resources",cls=badge-dark text-white` 
+  :link-badge:`https://quantum-computing.ibm.com/services/resources/docs/resources/manage/systems/,"Docs",cls=badge-primary text-white`
+  :link-badge:`https://github.com/Qiskit/qiskit-ibm-provider,"Github",cls=badge-success text-white`
 
   ---
   IonQ
