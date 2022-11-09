@@ -120,7 +120,7 @@ modindex_common_prefix = ['qiskit.']
 # -- Configuration for extlinks extension ------------------------------------
 # Refer to https://www.sphinx-doc.org/en/master/usage/extensions/extlinks.html
 
-
+language = 'en'
 # -- Options for HTML output -------------------------------------------------
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for

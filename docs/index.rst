@@ -35,7 +35,7 @@ Quantum (Hardware) Service Providers
   ++++++
   :link-badge:`https://www.ibm.com/quantum/systems,"Website",cls=badge-dark text-white`
   :link-badge:`https://quantum-computing.ibm.com/services/resources, "Compute resources",cls=badge-dark text-white` 
-  :link-badge:`https://quantum-computing.ibm.com/services/resources/docs/resources/manage/systems/,"Docs",cls=badge-primary text-white`
+  :link-badge:`https://qiskit.org/documentation/partners/qiskit_ibm_provider/,"Docs",cls=badge-primary text-white`
   :link-badge:`https://github.com/Qiskit/qiskit-ibm-provider,"Github",cls=badge-success text-white`
 
   ---
